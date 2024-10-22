@@ -1,0 +1,7 @@
+my-vercel-app/
+├── api/
+│   └── index.js
+|── public/
+│   └── index.html
+├── package.json
+└── vercel.json
